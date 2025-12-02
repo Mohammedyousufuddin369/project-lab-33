@@ -1,1 +1,1 @@
-Login functionality implemented.
+Rewritten login logic
